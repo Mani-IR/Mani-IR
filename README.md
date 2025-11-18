@@ -10,7 +10,7 @@
 ---
 
 ## 🚀 About Me  
-I'm a passionate ** Developer** and **Python learner** working my way toward **AI & Machine Learning**.  
+I'm a passionate ** Developer ** and **Python learner** working my way toward **AI & Machine Learning**.  
 I build real-world web applications using both **front-end & back-end**, and I love mixing **coding with fitness** as a balanced lifestyle.  
 Always learning, always building.  
 
