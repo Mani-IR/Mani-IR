@@ -51,48 +51,14 @@ Always learning, always building.
 
 ## 🐍 Python Progress (Self-Assessment)
 
-## 📈 Skill Level
-
-- **Python** ![70%](https://progress-bar.dev/70/?title=Lvl&width=200&color=blue)
-- **JavaScript** ![70%](https://progress-bar.dev/70/?title=Lvl&width=200&color=yellow)
-- **Django** ![60%](https://progress-bar.dev/60/?title=Lvl&width=200&color=green)
-
-
-## 📈 Skill Levels
-- **Python:** 70%
-- **JavaScript:** 70%
-- **Django:** 60%
-
 ## 📊 Skill Level
 
 <p align="left">
   <img src="https://img.shields.io/badge/Python-70%25-blue?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/JavaScript-70%25-yellow?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/JavaScript-60%25-yellow?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Django-60%25-green?style=for-the-badge" />
 </p>
 
-
-## 📈 Skill Level (Self Assessment)
-
-**Python**
-▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▱ 70%
-
-**JavaScript**
-▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▱ 70%
-
-**Django**
-▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▱▱▱▱▱ 60%
-
-
-
-
-
-
-<!-- <pre>
-Python     ███████████████████████░░ 70%    <br>
-JavaScript ███████████████████████░░ 70% <br>
-Django     ████████████████████░░░░░ 60%
-</pre> -->
 ---
 
 ## 📈 Contribution Graph
@@ -104,9 +70,9 @@ Django     ████████████████████░░░
 
 ## 🔗 Connect With Me
 <p align="center">
-  <a href="https://www.instagram.com/_mani_.68"><img src="https://skillicons.dev/icons?i=instagram" width="45"/></a>
-  <a href="https://www.linkedin.com/in/mani-ajorloo-434936311/"><img src="https://skillicons.dev/icons?i=linkedin" width="45"/></a>
-  <a href="mailto:maniajorlo13@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" width="45"/></a>
+  <a href="https://www.instagram.com/_mani_.68"><img src="https://skillicons.dev/icons?i=instagram" width="40"/></a>
+  <a href="https://www.linkedin.com/in/mani-ajorloo-434936311/"><img src="https://skillicons.dev/icons?i=linkedin" width="40"/></a>
+  <a href="mailto:maniajorlo13@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" width="40"/></a>
 </p>
 
 ---
