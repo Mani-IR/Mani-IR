@@ -51,9 +51,9 @@ Always learning, always building.
 
 ## 🐍 Python Progress (Self-Assessment)
 <p>
-Python ███████████████████████░░ 70%    <br>
+Python     ███████████████████████░░ 70%    <br>
 JavaScript ███████████████████████░░ 70% <br>
-Django ████████████████████░░░░░ 60%
+Django     ████████████████████░░░░░ 60%
 </p>
 ---
 
