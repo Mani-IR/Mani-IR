@@ -26,8 +26,8 @@ Always learning, always building.
 <p align="center">
   
 <!-- Languages & Tools -->
-<img src="https://skillicons.dev/icons?i=html,css,bootstrap,tailwind,js,jquery,sass,python,django,flask,laravel,nodejs,sqlite,postgres,git,github,figma,vscode,powershell,linux,regex" />
-<!-- <img src="https://skillicons.dev/icons?i=linux,postman,regex" /> -->
+<img src="https://skillicons.dev/icons?i=html,css,bootstrap,tailwind,js,jquery,sass,python,django,flask,laravel,nodejs,sqlite,postgres,git,figma,vscode,powershell,linux,regex" />
+<!-- <img src="https://skillicons.dev/icons?i=linux,github,postman,regex" /> -->
 <br>
 </p>
 
