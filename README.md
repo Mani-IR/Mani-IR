@@ -50,11 +50,49 @@ Always learning, always building.
 ---
 
 ## 🐍 Python Progress (Self-Assessment)
-<pre>
+
+## 📈 Skill Level
+
+- **Python** ![70%](https://progress-bar.dev/70/?title=Lvl&width=200&color=blue)
+- **JavaScript** ![70%](https://progress-bar.dev/70/?title=Lvl&width=200&color=yellow)
+- **Django** ![60%](https://progress-bar.dev/60/?title=Lvl&width=200&color=green)
+
+
+## 📈 Skill Levels
+- **Python:** 70%
+- **JavaScript:** 70%
+- **Django:** 60%
+
+## 📊 Skill Level
+
+<p align="left">
+  <img src="https://img.shields.io/badge/Python-70%25-blue?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/JavaScript-70%25-yellow?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Django-60%25-green?style=for-the-badge" />
+</p>
+
+
+## 📈 Skill Level (Self Assessment)
+
+**Python**
+▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▱ 70%
+
+**JavaScript**
+▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▱ 70%
+
+**Django**
+▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▱▱▱▱▱ 60%
+
+
+
+
+
+
+<!-- <pre>
 Python     ███████████████████████░░ 70%    <br>
 JavaScript ███████████████████████░░ 70% <br>
 Django     ████████████████████░░░░░ 60%
-</pre>
+</pre> -->
 ---
 
 ## 📈 Contribution Graph
