@@ -1,6 +1,6 @@
 
 <!-- Banner -->
-<h1 align="center">👋 Hey, I'm <strong>Mani IR</strong></h1>
+<h1 align="center">👋 Hey, I'm <strong>Mani Ajorloo</strong></h1>
 <h3 align="center"> Developer | Python Enthusiast | Future AI Engineer | Web Designer | Athlete 🏋️‍♂️</h3>
 
 <!-- <p align="center">
