@@ -1,11 +1,11 @@
 
 <!-- Banner -->
 <h1 align="center">👋 Hey, I'm <strong>Mani IR</strong></h1>
-<h3 align="center">Full-Stack Developer | Python Enthusiast | Future AI Engineer | Web Designer | Athlete 🏋️‍♂️</h3>
+<h3 align="center"> Developer | Python Enthusiast | Future AI Engineer | Web Designer | Athlete 🏋️‍♂️</h3>
 
-<p align="center">
+<!-- <p align="center">
   <img src="https://github.com/Mani-IR.png" alt="profile" width="160" style="border-radius:50%">
-</p>
+</p> -->
 
 ---
 
