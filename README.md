@@ -61,6 +61,14 @@ Always learning, always building.
 
 ---
 
+## 🏆 GitHub Trophies
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Mani-IR&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10" />
+</p>
+
+
+---
+
 ## 📈 Contribution Graph
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Mani-IR&theme=tokyo-night&hide_border=true" />
