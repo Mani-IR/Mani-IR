@@ -69,7 +69,7 @@ Always learning, always building.
 ---
 
 ## 🔗 Connect With Me
-<p align="center">
+<p align="left">
   <a href="https://www.instagram.com/_mani_.68"><img src="https://skillicons.dev/icons?i=instagram" width="40"/></a>
   <a href="https://www.linkedin.com/in/mani-ajorloo-434936311/"><img src="https://skillicons.dev/icons?i=linkedin" width="40"/></a>
   <a href="mailto:maniajorlo13@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" width="40"/></a>
