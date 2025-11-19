@@ -3,6 +3,11 @@
 <h1 align="center">👋 Hey, I'm <strong>Mani Ajorloo</strong></h1>
 <h3 align="center"> Developer | Python Enthusiast | Future AI Engineer | Web Designer | Athlete 🏋️‍♂️</h3>
 
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=1AFFD5&center=true&vCenter=true&width=600&lines=I'm+a+Software+Developer;Python+%7C+Django+Learner;Future+AI+Engineer;Web+Designer+%26+Web+Developer" />
+</p>
+
+
 <!-- <p align="center">
   <img src="https://github.com/Mani-IR.png" alt="profile" width="160" style="border-radius:50%">
 </p> -->
