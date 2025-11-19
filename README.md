@@ -66,6 +66,19 @@ Always learning, always building.
   <img src="https://github-profile-trophy.vercel.app/?username=Mani-IR&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10" />
 </p>
 
+---
+
+## 🧠 Random Dev Quote
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
+</p>
+
+
+## 🧠 Random Dev Quote
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=vertical&theme=tokyonight" />
+</p>
+
 
 ---
 
