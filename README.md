@@ -54,7 +54,7 @@ Always learning, always building.
 
 ---
 
-## 🐍 Python Progress (Self-Assessment)
+<!--## 🐍 Python Progress (Self-Assessment)-->
 
 ## 📊 Skill Level
 
