@@ -73,13 +73,6 @@ Always learning, always building.
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
 </p>
 
-
-## 🧠 Random Dev Quote
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=vertical&theme=tokyonight" />
-</p>
-
-
 ---
 
 ## 📈 Contribution Graph
