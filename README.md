@@ -27,11 +27,11 @@ I'm a passionate Developer and Python learner working my way toward AI & Machine
 - Working on **AI prerequisites** (Pandas, NumPy, Data Manipulation)
 
 
-
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Mani-IR&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=Mani-IR&theme=tokyonight&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Mani-IR&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+## 📊 GitHub Stats
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Mani-IR&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mani-IR&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Mani-IR&theme=dark&no-frame=false&no-bg=true&margin-w=4)
