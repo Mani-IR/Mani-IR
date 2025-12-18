@@ -13,7 +13,7 @@
 </p> -->
 
 ---
-
+<!-- 
 ## 🚀 About Me  
 I'm a passionate **Developer** and **Python learner** working my way toward **AI & Machine Learning**.  
 I build real-world web applications using both **front-end & back-end**, and I love mixing **coding with fitness** as a balanced lifestyle.  
@@ -24,17 +24,16 @@ Always learning, always building.
 - 🎨 Also a Web Designer & Figma enthusiast  
 - 💪 Athlete (Gym + Hiking)  
 - 🌍 Tech is my lifestyle, not just a skill  
-
+-->
 ---
-
+<!-- 
 ## 🛠️ Tech Stack
 <p align="center">
-  
-<!-- Languages & Tools -->
  <img src="https://skillicons.dev/icons?i=html,css,bootstrap,tailwind,js,jquery,sass,python,django,flask,laravel,nodejs,npm,sqlite,postgres,git,figma,vscode,linux,regex" />
-<!-- <img src="https://skillicons.dev/icons?i=linux,github,postman,regex" /> -->
 <br>
-</p>
+</p>-->
+<!-- Languages & Tools -->
+<!-- <img src="https://skillicons.dev/icons?i=linux,github,postman,regex" /> -->
 
 ---
 
@@ -55,7 +54,7 @@ Always learning, always building.
 ---
 
 <!--## 🐍 Python Progress (Self-Assessment)-->
-
+<!--
 ## 📊 Skill Level
 
 <p align="left">
@@ -63,21 +62,22 @@ Always learning, always building.
   <img src="https://img.shields.io/badge/JavaScript-60%25-yellow?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Django-60%25-green?style=for-the-badge" />
 </p>
-
+-->
 ---
-
+<!--
 ## 🏆 GitHub Trophies
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=Mani-IR&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10" />
 </p>
+-->
 
 ---
-
+<!--
 ## 🧠 Random Dev Quote
 <p align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" />
 </p>
-
+-->
 ---
 
 ## 📈 Contribution Graph
@@ -86,7 +86,7 @@ Always learning, always building.
 </p>
 
 ---
-
+<!--
 ## 🔗 Connect With Me
 <p align="left">
   <a href="https://www.instagram.com/_mani_.68"><img src="https://skillicons.dev/icons?i=instagram" width="40"/></a>
@@ -98,6 +98,6 @@ Always learning, always building.
 
 ## 🧩 Motto
 > *"Code hard, train harder. Build every day. Grow every day."*
-
+-->
 ---
 
