@@ -22,6 +22,14 @@ Always learning, always building.
 
 ---
 
+## 🛠️ Tech Stack
+<p align="center">
+ <img src="https://skillicons.dev/icons?i=html,css,bootstrap,tailwind,js,jquery,sass,python,django,flask,laravel,nodejs,npm,sqlite,postgres,git,figma,vscode,linux,regex" />
+<br>
+</p>
+
+
+---
 
 ## 🧠 Current Focus  
 - Improving **Python (Advanced)**  
@@ -40,6 +48,13 @@ Always learning, always building.
 
 ---
 
+## 🏆 GitHub Trophies
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Mani-IR&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10" />
+</p>
+
+
+---
 
 
 ## 📈 Contribution Graph
@@ -48,10 +63,24 @@ Always learning, always building.
 </p>
 
 
+---
+
+## 🧠 Random Dev Quote
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" />
+</p>
+
+
+---
 
 
 
-
+## 🔗 Connect With Me
+<p align="left">
+  <a href="https://www.instagram.com/_mani_.68"><img src="https://skillicons.dev/icons?i=instagram" width="40"/></a>
+  <a href="https://www.linkedin.com/in/mani-ajorloo-434936311/"><img src="https://skillicons.dev/icons?i=linkedin" width="40"/></a>
+  <a href="mailto:maniajorlo13@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" width="40"/></a>
+</p>
 
 
 
@@ -82,11 +111,7 @@ Always learning, always building.
 
 
 
-## 🛠️ Tech Stack
-<p align="center">
- <img src="https://skillicons.dev/icons?i=html,css,bootstrap,tailwind,js,jquery,sass,python,django,flask,laravel,nodejs,npm,sqlite,postgres,git,figma,vscode,linux,regex" />
-<br>
-</p>
+
 <!-- Languages & Tools -->
 <!-- <img src="https://skillicons.dev/icons?i=linux,github,postman,regex" /> -->
 
@@ -105,33 +130,20 @@ Always learning, always building.
   <img src="https://img.shields.io/badge/Django-60%25-green?style=for-the-badge" />
 </p>
 -->
-<!--
-## 🏆 GitHub Trophies
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Mani-IR&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10" />
-</p>
--->
 
 
-<!--
-## 🧠 Random Dev Quote
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" />
-</p>
--->
+
+
+
+
+
+
+
+
 
 
 
 <!--
-## 🔗 Connect With Me
-<p align="left">
-  <a href="https://www.instagram.com/_mani_.68"><img src="https://skillicons.dev/icons?i=instagram" width="40"/></a>
-  <a href="https://www.linkedin.com/in/mani-ajorloo-434936311/"><img src="https://skillicons.dev/icons?i=linkedin" width="40"/></a>
-  <a href="mailto:maniajorlo13@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" width="40"/></a>
-</p>
-
-
-
 ## 🧩 Motto
 > *"Code hard, train harder. Build every day. Grow every day."*
 -->
