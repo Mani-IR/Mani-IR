@@ -12,7 +12,7 @@
   <img src="https://github.com/Mani-IR.png" alt="profile" width="160" style="border-radius:50%">
 </p> -->
 
----
+
 <!-- 
 ## 🚀 About Me  
 I'm a passionate **Developer** and **Python learner** working my way toward **AI & Machine Learning**.  
@@ -35,7 +35,7 @@ Always learning, always building.
 <!-- Languages & Tools -->
 <!-- <img src="https://skillicons.dev/icons?i=linux,github,postman,regex" /> -->
 
----
+
 
 ## 📊 GitHub Stats
 <p align="center">
@@ -51,7 +51,7 @@ Always learning, always building.
 - Learning **Django REST Framework**  
 - Working on **AI prerequisites** (Pandas, NumPy, Data Manipulation)
 
----
+
 
 <!--## 🐍 Python Progress (Self-Assessment)-->
 <!--
@@ -63,7 +63,6 @@ Always learning, always building.
   <img src="https://img.shields.io/badge/Django-60%25-green?style=for-the-badge" />
 </p>
 -->
----
 <!--
 ## 🏆 GitHub Trophies
 <p align="center">
@@ -71,21 +70,20 @@ Always learning, always building.
 </p>
 -->
 
----
+
 <!--
 ## 🧠 Random Dev Quote
 <p align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" />
 </p>
 -->
----
 
 ## 📈 Contribution Graph
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Mani-IR&theme=tokyo-night&hide_border=true" />
 </p>
 
----
+
 <!--
 ## 🔗 Connect With Me
 <p align="left">
@@ -94,10 +92,10 @@ Always learning, always building.
   <a href="mailto:maniajorlo13@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" width="40"/></a>
 </p>
 
----
+
 
 ## 🧩 Motto
 > *"Code hard, train harder. Build every day. Grow every day."*
 -->
----
+
 
