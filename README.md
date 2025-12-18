@@ -23,15 +23,11 @@ Always learning, always building.
 ---
 
 
-
-
-
-
-
-
-
-
-
+## 🧠 Current Focus  
+- Improving **Python (Advanced)**  
+- Deep practice with **Django**  
+- Learning **Django REST Framework**  
+- Working on **AI prerequisites** (Pandas, NumPy, Data Manipulation)
 
 
 ---
@@ -44,11 +40,7 @@ Always learning, always building.
 
 ---
 
-## 🧠 Current Focus  
-- Improving **Python (Advanced)**  
-- Deep practice with **Django**  
-- Learning **Django REST Framework**  
-- Working on **AI prerequisites** (Pandas, NumPy, Data Manipulation)
+
 
 ## 📈 Contribution Graph
 <p align="center">
@@ -89,12 +81,12 @@ Always learning, always building.
 
 
 
-<!-- 
+
 ## 🛠️ Tech Stack
 <p align="center">
  <img src="https://skillicons.dev/icons?i=html,css,bootstrap,tailwind,js,jquery,sass,python,django,flask,laravel,nodejs,npm,sqlite,postgres,git,figma,vscode,linux,regex" />
 <br>
-</p>-->
+</p>
 <!-- Languages & Tools -->
 <!-- <img src="https://skillicons.dev/icons?i=linux,github,postman,regex" /> -->
 
